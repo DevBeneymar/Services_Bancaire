@@ -1,0 +1,12 @@
+
+94  ;BENEYMAR                                                    ;Ben-Jacques                                                    ;42003583                                                    ;pbenjacques@gmail.com                                                    ;ben10                                                    ;A  ;20-6-2017
+
+23  ;COCODE                                                    ;Pradel Mike Emmanuel                                                    ;33346943                                                    ;cocode@statudiant.com                                                    ;cocodeur                                                    ;D  ;20-6-2017
+
+45  ;OMEGA                                                    ;teodulos                                                    ;33456789                                                    ;theo@statudiant.com                                                    ;omega509                                                    ;A  ;20-6-2017
+
+57  ;ORBY                                                    ;Meralus Obed                                                    ;33170214                                                    ;obed@statudiant.com                                                    ;obedo              ;D  ;20-6-2017
+
+11  ;QUISKEYA          ;Jean Rony          ;36758900          ;rony@statudiant.com          ;kisyaya    ;A  ;20-6-2017
+
+66  ;Haiti          ;Jovenel Moise          ;33456700          ;haiti@gmail.com          ;dayiti  ;A  ;20-6-2017
